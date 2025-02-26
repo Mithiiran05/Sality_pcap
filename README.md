@@ -1,8 +1,5 @@
 # **Sality P2P Botnet PCAP Collection**
 
-![Sality Botnet](https://example.com/sality-image.png)  
-*(Replace with a relevant image or remove this section if unnecessary)*  
-
 This repository contains **packet capture (PCAP) files** collected from four virtual machines (**VMs**) that were part of an active **Sality Peer-to-Peer (P2P) botnet**. The network traffic was recorded in a controlled malware analysis testbed (**MALBED**) to support research on botnet behavior, P2P communication patterns, and intrusion detection.
 
 ---
